@@ -1,2 +1,1 @@
-# lea
-artificial intelligence system
+# Tic tac toe
